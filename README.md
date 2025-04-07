@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sri Mart - Full Stack E-Commerce Website 🛒
 
 A fully responsive e-commerce web application built as a personal full-stack development project.
@@ -21,3 +22,6 @@ A fully responsive e-commerce web application built as a personal full-stack dev
 
 
 Hope this may help in your project someway...!
+=======
+# Sri-Mart-Website
+>>>>>>> 9446f719510ad14f89572237ea65b31c432daf9c
